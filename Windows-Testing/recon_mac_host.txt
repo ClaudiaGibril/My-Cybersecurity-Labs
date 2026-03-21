@@ -1,0 +1,9 @@
+### Recognition Report - Sat 21 Mar 22:03:58 GMT 2026
+Target: MacBookAir (192.168.1.137)
+Identified Ports:
+- 53/tcp (DNS)
+- 5000/tcp (AirTunes/AirPlay - 403 Forbidden)
+- 7000/tcp (Control Center/AirPlay)
+
+OS Detection: Apple macOS 11/12 (96% accuracy)
+Notes: The host has an active firewall (filtered ports), but the AirTunes service allowed the operating system to be identified.
