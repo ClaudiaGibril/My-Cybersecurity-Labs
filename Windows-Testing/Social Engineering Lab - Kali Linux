@@ -1,0 +1,20 @@
+# Social Engineering Lab - Kali Linux
+
+This repository contains the documentation for a Social Engineering lab conducted on Kali Linux.
+
+## Lab Steps
+1. **Reconnaissance**: Using `Recon-ng` to gather information.
+
+2. **Infrastructure**: Configuring the `Social-Engineer Toolkit (SET)` as a Site Cloner.
+
+3. **Attack Vector**: Creating a malicious link (Phishing) in a Word document.
+
+4. **Execution**: Capturing credentials on a cloned LinkedIn page.
+
+## Challenges Solved (Troubleshooting)
+* Correction of directory permissions in Kali.
+
+* Disabling the Apache2 service to free port 80.
+* Correct configuration of the local IP for the POST Back.
+
+> **Warning:** This project is purely for educational purposes and was conducted in a controlled environment.
